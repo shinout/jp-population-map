@@ -1,0 +1,27 @@
+{
+  "name": "map",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shinout/population-heatmap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browserify": "^10.2.0",
+    "coffeeify": "^1.1.0",
+    "debug": "^2.2.0",
+    "ect": "^0.5.9",
+    "es6-promise": "^2.3.0",
+    "jquery": "^2.1.4",
+    "node-geocoder": "^2.21.2"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
+}
