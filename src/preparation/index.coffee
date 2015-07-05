@@ -34,7 +34,6 @@ class PreparationIndex
             fs.writeFileSync @constructor.HEATMAP_FILE_JSON, JSON.stringify(data, null, 4)
 
         .catch (e) ->
-            console.log "こっちにくるんか"
             debug e
 
 
@@ -59,7 +58,9 @@ class PreparationIndex
     ###
     appendLocation: (cityData) ->
 
-        return Promise.resolve() if cityData.lat? and cityData.lng?
+        if cityData.geocode
+            debug('%s already has geocode data', cityData.pref + cityData.city)
+            return Promise.resolve()
 
         locationName = cityData.pref + cityData.city
 

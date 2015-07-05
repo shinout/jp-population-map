@@ -12,8 +12,9 @@ class PopulationDataLoader
         for line,i in lines
             continue if i < 58
             [x,x,x,x,x,type, pref, city, population] = line.split('\t')
-            continue if type in ['0', 'a']
+            continue if type is 'a' # filter prefecture line
             continue if city is '特別区部'
+            continue if type is '0' and pref isnt '東京都'
 
             population = Number population.split(',').join('')
 

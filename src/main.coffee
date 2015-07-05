@@ -22,7 +22,7 @@ class Main
 
         data = @loadJPPopulationHeatmap()
 
-        @heatmap = new @gmaps.visualization.HeatmapLayer(data: data)
+        @heatmap = new @gmaps.visualization.HeatmapLayer(data: data, radius: 30)
         @heatmap.setMap @map
 
 

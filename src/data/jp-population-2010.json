@@ -8736,6 +8736,332 @@
         }
     },
     {
+        "type": "0",
+        "pref": "東京都",
+        "city": "千代田区",
+        "population": 47115,
+        "geocode": {
+            "latitude": 35.6823815,
+            "longitude": 139.7530053,
+            "country": "日本",
+            "city": "千代田区",
+            "state": "東京都",
+            "countryCode": "JP"
+        }
+    },
+    {
+        "type": "0",
+        "pref": "東京都",
+        "city": "中央区",
+        "population": 122762,
+        "geocode": {
+            "latitude": 35.666255,
+            "longitude": 139.775565,
+            "country": "日本",
+            "city": "中央区",
+            "state": "東京都",
+            "countryCode": "JP"
+        }
+    },
+    {
+        "type": "0",
+        "pref": "東京都",
+        "city": "港区",
+        "population": 205131,
+        "geocode": {
+            "latitude": 35.6509615,
+            "longitude": 139.7414342,
+            "country": "日本",
+            "city": "港区",
+            "state": "東京都",
+            "countryCode": "JP"
+        }
+    },
+    {
+        "type": "0",
+        "pref": "東京都",
+        "city": "新宿区",
+        "population": 326309,
+        "geocode": {
+            "latitude": 35.6907956,
+            "longitude": 139.700227,
+            "country": "日本",
+            "city": "新宿区",
+            "state": "東京都",
+            "countryCode": "JP"
+        }
+    },
+    {
+        "type": "0",
+        "pref": "東京都",
+        "city": "文京区",
+        "population": 206626,
+        "geocode": {
+            "latitude": 35.71881,
+            "longitude": 139.744732,
+            "country": "日本",
+            "city": "文京区",
+            "state": "東京都",
+            "countryCode": "JP"
+        }
+    },
+    {
+        "type": "0",
+        "pref": "東京都",
+        "city": "台東区",
+        "population": 175928,
+        "geocode": {
+            "latitude": 35.7149287,
+            "longitude": 139.7837794,
+            "country": "日本",
+            "city": "台東区 (Taitō)",
+            "state": "東京都",
+            "countryCode": "JP"
+        }
+    },
+    {
+        "type": "0",
+        "pref": "東京都",
+        "city": "墨田区",
+        "population": 247606,
+        "geocode": {
+            "latitude": 35.7115533,
+            "longitude": 139.8181933,
+            "country": "日本",
+            "city": "墨田区 (Sumida)",
+            "state": "東京都",
+            "countryCode": "JP"
+        }
+    },
+    {
+        "type": "0",
+        "pref": "東京都",
+        "city": "江東区",
+        "population": 460819,
+        "geocode": {
+            "latitude": 35.649154,
+            "longitude": 139.81279,
+            "country": "日本",
+            "city": "江東区",
+            "state": "東京都",
+            "countryCode": "JP"
+        }
+    },
+    {
+        "type": "0",
+        "pref": "東京都",
+        "city": "品川区",
+        "population": 365302,
+        "geocode": {
+            "latitude": 35.599252,
+            "longitude": 139.73891,
+            "country": "日本",
+            "city": "品川区",
+            "state": "東京都",
+            "countryCode": "JP"
+        }
+    },
+    {
+        "type": "0",
+        "pref": "東京都",
+        "city": "目黒区",
+        "population": 268330,
+        "geocode": {
+            "latitude": 35.62125,
+            "longitude": 139.688014,
+            "country": "日本",
+            "city": "目黒区 (Meguro)",
+            "state": "東京都",
+            "countryCode": "JP"
+        }
+    },
+    {
+        "type": "0",
+        "pref": "東京都",
+        "city": "大田区",
+        "population": 693373,
+        "geocode": {
+            "latitude": 35.5939406,
+            "longitude": 139.710540772251,
+            "country": "日本",
+            "city": "大田区",
+            "state": "東京都",
+            "zipcode": "143-0026",
+            "streetName": "第二京浜",
+            "countryCode": "JP"
+        }
+    },
+    {
+        "type": "0",
+        "pref": "東京都",
+        "city": "世田谷区",
+        "population": 877138,
+        "geocode": {
+            "latitude": 35.646096,
+            "longitude": 139.65627,
+            "country": "日本",
+            "city": "世田谷区 (Setagaya)",
+            "state": "東京都",
+            "countryCode": "JP"
+        }
+    },
+    {
+        "type": "0",
+        "pref": "東京都",
+        "city": "渋谷区",
+        "population": 204492,
+        "geocode": {
+            "latitude": 35.664752,
+            "longitude": 139.698096,
+            "country": "日本",
+            "city": "渋谷区",
+            "state": "東京都",
+            "countryCode": "JP"
+        }
+    },
+    {
+        "type": "0",
+        "pref": "東京都",
+        "city": "中野区",
+        "population": 314750,
+        "geocode": {
+            "latitude": 35.718123,
+            "longitude": 139.664468,
+            "country": "日本",
+            "city": "中野区 (Nakano)",
+            "state": "東京都",
+            "countryCode": "JP"
+        }
+    },
+    {
+        "type": "0",
+        "pref": "東京都",
+        "city": "杉並区",
+        "population": 549569,
+        "geocode": {
+            "latitude": 35.69091,
+            "longitude": 139.638803,
+            "country": "日本",
+            "city": "杉並区 (Suginami)",
+            "state": "東京都",
+            "countryCode": "JP"
+        }
+    },
+    {
+        "type": "0",
+        "pref": "東京都",
+        "city": "豊島区",
+        "population": 284678,
+        "geocode": {
+            "latitude": 35.736156,
+            "longitude": 139.714222,
+            "country": "日本",
+            "city": "豊島区",
+            "state": "東京都",
+            "countryCode": "JP"
+        }
+    },
+    {
+        "type": "0",
+        "pref": "東京都",
+        "city": "北区",
+        "population": 335544,
+        "geocode": {
+            "latitude": 35.777741,
+            "longitude": 139.723769,
+            "country": "日本",
+            "city": "北区",
+            "state": "東京都",
+            "zipcode": "115-0045",
+            "streetNumber": "1-13-1",
+            "countryCode": "JP"
+        }
+    },
+    {
+        "type": "0",
+        "pref": "東京都",
+        "city": "荒川区",
+        "population": 203296,
+        "geocode": {
+            "latitude": 35.7395836,
+            "longitude": 139.7802831,
+            "country": "日本",
+            "city": "荒川区",
+            "state": "東京都",
+            "countryCode": "JP"
+        }
+    },
+    {
+        "type": "0",
+        "pref": "東京都",
+        "city": "板橋区",
+        "population": 535824,
+        "geocode": {
+            "latitude": 35.774143,
+            "longitude": 139.681209,
+            "country": "日本",
+            "city": "板橋区",
+            "state": "東京都",
+            "countryCode": "JP"
+        }
+    },
+    {
+        "type": "0",
+        "pref": "東京都",
+        "city": "練馬区",
+        "population": 716124,
+        "geocode": {
+            "latitude": 35.74836,
+            "longitude": 139.638735,
+            "country": "日本",
+            "city": "練馬区",
+            "state": "東京都",
+            "countryCode": "JP"
+        }
+    },
+    {
+        "type": "0",
+        "pref": "東京都",
+        "city": "足立区",
+        "population": 683426,
+        "geocode": {
+            "latitude": 35.783703,
+            "longitude": 139.795319,
+            "country": "日本",
+            "city": "足立区",
+            "state": "東京都",
+            "countryCode": "JP"
+        }
+    },
+    {
+        "type": "0",
+        "pref": "東京都",
+        "city": "葛飾区",
+        "population": 442586,
+        "geocode": {
+            "latitude": 35.751733,
+            "longitude": 139.863816,
+            "country": "日本",
+            "city": "葛飾区",
+            "state": "東京都",
+            "countryCode": "JP"
+        }
+    },
+    {
+        "type": "0",
+        "pref": "東京都",
+        "city": "江戸川区",
+        "population": 678967,
+        "geocode": {
+            "latitude": 35.7068729,
+            "longitude": 139.8684239,
+            "country": "日本",
+            "city": "江戸川区",
+            "state": "東京都",
+            "countryCode": "JP"
+        }
+    },
+    {
         "type": "2",
         "pref": "東京都",
         "city": "八王子市",
