@@ -8,7 +8,7 @@ view population of Japanese cities as a heatmap
 ## build
 ```sh
 npm install
-grunt
+grunt build
 ```
 
 then
