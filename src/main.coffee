@@ -22,7 +22,7 @@ class Main
 
         data = @loadJPPopulationHeatmap()
 
-        @heatmap = new @gmaps.visualization.HeatmapLayer(data: data, radius: 30)
+        @heatmap = new @gmaps.visualization.HeatmapLayer(data: data, radius: 20)
         @heatmap.setMap @map
 
 
@@ -36,7 +36,7 @@ class Main
             if cityData.geocode
                 heatMapData.push
                     location: @latLng(cityData.geocode.latitude, cityData.geocode.longitude)
-                    weight : Math.log cityData.population
+                    weight : Math.log cityData.density
 
         return heatMapData
 
